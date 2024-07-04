@@ -5,7 +5,7 @@ var listaDeNumerosSorteados = [];
 var tentativas = 1;
 
 // Define o valor máximo para os números sorteados
-var MAXNUM = 10;
+var MAXNUM = 3;
 
 // Gera o número secreto inicial
 var secretNumber = gerarNumeroAleatorio(); 
